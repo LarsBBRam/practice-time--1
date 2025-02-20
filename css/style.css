@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333;
+    color: #fafafa;
+}
+
+a{
+    color: coral    ;
+}
+
+h1{
+    color: aquamarine;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+.mars-h1-title{
+    color: lightsalmon;
+}
